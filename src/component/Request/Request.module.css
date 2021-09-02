@@ -1,0 +1,33 @@
+.request{
+    width: 30rem;
+    height: auto;
+    margin: 4rem  0px 0px 27rem;
+     }
+        
+  .requestbox   {
+    margin-top: 3rem;
+    margin-left: 6rem;
+    max-width: 350px;
+    height:auto;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 26);
+    border-radius: 8px;
+  }
+  .request input{
+    width:310px ;
+  }
+  
+.errortext {
+      color: red;
+  }
+  .sendbutton{
+    width: 19.2rem;
+    background-color: #1ba549;
+    color: white;
+    border: 1px solid #240370;
+    padding: 0.5rem 1.5rem;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  

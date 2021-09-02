@@ -1,0 +1,23 @@
+.magzinecontainer{
+  width: 100%;
+  height: 40rem;
+  margin-top: 1rem;
+}
+
+.magzinebox{
+  margin-left: 30rem;
+  max-width: 320px;
+  height:auto;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 26);
+  border-radius: 8px;
+}
+
+.magzine input{
+  width:250px ;
+}
+
+.errortext {
+  color: red;
+}
+

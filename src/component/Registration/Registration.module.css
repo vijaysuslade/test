@@ -1,0 +1,62 @@
+.registrationbox{
+  height:auto;
+  width:30%;
+  display: flex;
+  justify-content: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 26);
+  border-radius: 9px;
+  margin-top: 5rem;
+  margin-left: 30rem;
+  margin-bottom: 5rem;
+
+}
+.formactions{
+  display: flex;
+  margin-top: 2rem;
+  margin-bottom: 15px;
+  
+}
+
+.submit{
+  margin-left: 6rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* .registration{
+  width: 30rem;
+  height: auto;
+  margin: 2rem  0px 0px 27rem;
+}
+      
+.registrationbox{
+  display: flex;
+  justify-content: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 26);
+  border-radius: 9px;
+}
+.registration input{
+  width:310px ;
+}
+.registration select{
+  width:310px ;
+}
+.errortext {
+  color: red;
+}
+
+.formactions{
+  margin-top: 2rem;
+  display: flex;
+}
+.reset{
+  margin-left: 10rem;
+} */
