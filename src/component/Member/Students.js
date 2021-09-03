@@ -2,7 +2,6 @@ import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import moment from 'moment'
 import classes from './Students.module.css'
-
 const Students = () => {
   const [students, setStudents] = useState([]);
 
