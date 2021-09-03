@@ -10,7 +10,8 @@ function App() {
     < React.Fragment >
       <Layout>
         <BookRouting />
-      </Layout>
+        <BookRouting />
+        </Layout>
     </React.Fragment >
 
 
